@@ -83,7 +83,7 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 	float:right;
 }
 .bannerhead h2{
-	color: #C5B7B8;
+	color: #AAAAAA;
 	margin:0;
 	padding:0;
 }
@@ -98,7 +98,7 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
     font-size:2.5em;
 }
 .bannerhead p{
-    color:#F1E9F2;
+    color:#3119C2;
 }
 a.downarrow  span{
  	height:48px;
